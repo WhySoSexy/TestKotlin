@@ -1,0 +1,10 @@
+*.iml
+sample/release/*
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/sample/app-config-custom.json
